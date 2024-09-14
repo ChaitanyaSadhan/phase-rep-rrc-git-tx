@@ -2,7 +2,7 @@ clear all;
 clc;
 %clf;
 
-trystr = 2;
+trystr = 3;
 save_mat_str = "./audio_tx/call"+num2str(trystr)+"tx.mat";
 
 % Parameters
